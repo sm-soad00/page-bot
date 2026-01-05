@@ -15,24 +15,24 @@ module.exports = {
 
     await nayan.sendGeneric(
       senderId,
-      `Name : Mohammad Nayan 🔰 Role : Bot & API Developer`,
-      "https://i.postimg.cc/s2Pv839V/Picsart-25-12-22-11-49-34-649.jpg",
+      `Name : SM SOAD 🔰 Role : Bot & Website Developer`,
+      "https://raw.githubusercontent.com/sm-soad00/page-bot/refs/heads/main/IMG_20240620_151823.jpg",
       "💬 Need help? Contact below 👇",
       [
         {
           type: "web_url",
           title: "✈️ Telegram",
-          url: "https://t.me/MOHAMMADNAYAN"
+          url: "https://t.me/smsoad"
         },
         {
           type: "web_url",
           title: "🟢 WhatsApp",
-          url: "https://wa.me/8801615298449"
+          url: "https://wa.me/8801816004207"
         },
         {
           type: "phone_number",
           title: "📞 Call Now",
-          payload: "+8801615298449"
+          payload: "+8801816004207"
         }
       ]
     );
