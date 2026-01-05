@@ -1,6 +1,6 @@
 {
   "pageAccessToken": "",
-  "verifyToken": "pagebot",
+  "verifyToken": "pagesoadbot",
   "pageId": "",
   "port": 3000,
   "prefix": "/",
