@@ -33,7 +33,7 @@ module.exports = {
     let responseText = `
 ╭─❖  COMMAND MENU  ❖─╮
 │ 💎 Bot: ${global.config.botName || "EMon System"}
-│ 👑 Owner: ${global.config.botOwner || "Mohammad Nayan"}
+│ 👑 Owner: ${global.config.botOwner || "SM SOAD"}
 │ 🌍 Global Prefix: ${global.config.prefix}
 │ 🕒 Time: ${currentTime}
 │ 📅 Date: ${currentDate}
