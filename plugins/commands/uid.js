@@ -23,7 +23,7 @@ module.exports = {
 🌍 Timezone : Asia/Dhaka
 
 ━━━━━━━━━━━━━━━━━━
-🤖 Powered by Nayan Bot`;
+🤖 Powered by SOAD Bot`;
 
     return nayan.sendMessage(senderId, { text: msg });
   }
