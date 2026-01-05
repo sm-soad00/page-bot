@@ -20,18 +20,18 @@ module.exports = {
           buttons: [
             {
               type: "web_url",
-              url: "https://t.me/MOHAMMADNAYAN",
+              url: "https://t.me/smsoad",
               title: "📨 Telegram"
             },
             {
               type: "web_url",
-              url: "https://wa.me/8801615298449",
+              url: "https://wa.me/8801816004207",
               title: "💬 WhatsApp"
             },
             {
               type: "phone_number",
               title: "📞 Call Now",
-              payload: "+8801615298449"
+              payload: "+8801816004207"
             }
           ]
         }
